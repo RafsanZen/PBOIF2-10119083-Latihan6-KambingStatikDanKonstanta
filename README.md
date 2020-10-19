@@ -1,0 +1,1 @@
+# PBOIF2-10119083-Latihan6-KambingStatikDanKonstanta
